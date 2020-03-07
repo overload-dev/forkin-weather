@@ -1,7 +1,6 @@
 ### forkin-weather
 
-![ex_screenshot](./img/sample.jpg){: height="300"}
-
+<img src="./img/sample.jpg" height="300px"></img>
 This Project is just clone coding.
 I watched this lecture and created this project.
 <https://academy.nomadcoders.co/courses/216885/lectures/10903202>
